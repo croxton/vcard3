@@ -17,18 +17,18 @@ Simply way to generate vCards on your ExpressionEngine site. Forked from [MX vCa
 
 ### How to use
 
-{exp:vcard3 
-	display_name = "TSawyer"
-	first_name = "Tom" 
-	last_name = "Sawyer"
-	title = "Mister"
-	cell_tel = "+1 914 218 94885"	
-	email1 = "Tom.Sawyer@gmail.com"
-	url = "http://MarkTwain.com"
-	company = "Fence Design"
-	work_address = "351 Farmington Avenue, Hartford, CT"
-	title = "HR"
-	note = "2000-plus fence design ideas submitted"
-	vcard_name = "tsawye"
-}
+	{exp:vcard3 
+		display_name = "TSawyer"
+		first_name = "Tom" 
+		last_name = "Sawyer"
+		title = "Mister"
+		cell_tel = "+1 914 218 94885"	
+		email1 = "Tom.Sawyer@gmail.com"
+		url = "http://MarkTwain.com"
+		company = "Fence Design"
+		work_address = "351 Farmington Avenue, Hartford, CT"
+		title = "HR"
+		note = "2000-plus fence design ideas submitted"
+		vcard_name = "tsawye"
+	}
 	
